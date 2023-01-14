@@ -1,0 +1,178 @@
+.total-body{
+	margin:0px;
+	font-family: sans-serif;
+	}
+
+	.table1{
+	border: 1px solid;
+	width: 100%;
+	padding: 10px;
+	border-collapse:collapse;
+	}
+
+	.table1 td {
+	border: 0px solid;
+	}
+
+	.capgemini-logo-td{
+	width:10%;
+	padding: 6px 6px 6px 10px;
+	}
+
+	.capgemini-logo{
+	width: 130px;
+	height:auto;
+	cursor:pointer;
+	}
+
+	.verticalbar-1-td{
+	width:3%;
+	text-align: center;
+	}
+
+	.verticalbar-1{
+	color: #E2E2E2;
+	font-size: 18px;
+	}
+
+	.GST-ASPPortal-td{
+	width:70%;
+	}
+
+	.GST{
+	color:#2C2A69;
+	font-size: 23px;
+	}
+
+	.ASP-Portal{
+	color:#4CB4D4;
+	font-size: 23px;
+	}
+
+	.Hello-CU-Dealer-td{
+	width:17%;
+	}
+
+	.fa-regular{
+	color:#626262;
+	
+	}
+
+	/* .fa-user{
+	color:#626262;
+	} */
+
+	.Hello-CU-Dealer{
+	color:#4CB4D4;
+	}
+
+	.droup-down{
+	text-align:right !important;
+	}
+
+	.tb1-tr2-td1{
+	width:80%;
+	padding: 6px;
+	}
+
+	.table1-tr2{
+	background-color:#1359A1;
+	}
+
+	.Login-as-Admin-td{
+	width:20%;
+	text-align: center;
+	}
+
+	.Login-as-Admin{
+	color:white;
+	font-family: sans-serif;
+	}
+
+	.table2 {
+	border: 1px solid;
+	width: 100%;
+	border-collapse:collapse;
+	
+	}  
+
+
+	.table2 td{
+	border: 0px solid;
+	padding: 6px 15px 5px 15px;
+	}
+
+	.table2-tr1{
+	background-color: #E2E2E2;
+	}
+	
+	.space-td {
+	width:57%;
+	padding:20px;
+	}
+
+	.newuser-btn-td {
+	width:13%;
+	}
+
+	.newuser-btn{
+		color:white;
+		width:100%;
+		background-color:#00A654;
+		border-color: #00A654;
+		border-radius: 3px;
+		padding: 8px 6px 8px 6px;
+		border-width: 0px;
+		cursor:pointer;
+		}
+
+	.addContact-btn{
+	color:white;
+	background-color:#00A654;
+	border-color: #00A654;
+	border-radius: 3px;
+	padding: 7px 14px 7px 13px;
+    border-width: 0px;
+	
+	}
+
+	.searchbar-td {
+	width:26%;
+	}
+
+	.searchbar{
+	padding: 8px 151px 5px 7px !important;
+    margin-right: -30px !important;
+    border-width: 0px !important;
+	}
+
+	.vertical-bar-td{
+	width:1%;
+	vertical-align:top;
+	
+	}
+	
+	.vertical-bar{
+	color: #E2E2E2;
+	font-size: 26px;
+	margin-right: -4px;
+	background-color:white;
+	}
+
+	.searchicon-td{
+	width:3%;
+	}
+	#spanUser {
+		font-weight: 900 !important;
+	}
+
+#spanFont{
+	font-size: 17px;
+	margin-left: -27px;
+	background-color:white;
+	padding: 4.5px;
+	color:#636363;
+	vertical-align:top;
+	color:#626262;
+	 
+	}  

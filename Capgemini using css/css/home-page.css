@@ -1,0 +1,138 @@
+	* {
+		margin: 0px;
+		font-family: sans-serif;
+	}
+
+	
+
+	.table1 {
+		border: 1px solid;
+		width: 100%;
+		padding: 10px;
+		border-collapse: collapse;
+	}
+
+	.table1 td {
+		border: 0px solid;
+	}
+
+	.capgemini-logo-td {
+		width: 10%;
+		padding: 6px 6px 6px 10px;
+	}
+
+	.capgemini-logo {
+		width: 130px;
+		height: auto;
+		cursor: pointer;
+	}
+
+	.verticalbar-1-td {
+		width: 3%;
+		text-align: center;
+	}
+
+	.verticalbar-1 {
+		color: #E2E2E2;
+		font-size: 18px;
+	}
+
+
+	.tb1-tr2-td1{
+	width:70%;
+	padding: 6px;
+	}
+
+	.table1-tr2{
+	background-color:#1359A1;
+	}
+
+	.Login-as-Admin-td{
+	width:30%;
+	text-align: right;
+	}
+
+	.Login-as-Admin{
+	color:white;
+	font-family: sans-serif;
+	}
+
+	.table2 td {
+		border: 1px solid;
+	}
+
+	.table2 {
+		background-image: url('../Images/capgemini-backgroundImg1.jpg');
+		width: 100%;
+		border: 1px solid;
+		border-collapse: collapse;
+		background-repeat: no-repeat;
+		background-position: center;
+		background-size: cover;
+		height: 93%;
+	}
+
+	.capgemini-img1-td {
+		width: 20%;
+		text-align: center;
+	}
+
+	.capgemini-img1 {
+		width: 80%;
+		height: auto;
+	}
+
+	.welcomeToRegistrationForm {
+		width: 87%;
+		color: 0070AD;
+		font-size: 30px;
+		text-align: center;
+		font-family: unset;
+		font-weight: bold;
+		cursor: pointer;
+	}
+
+	.remove-underline {
+		text-decoration: none;
+	}
+
+	.inner-table1 {
+		width: 100%;
+		border: 0px solid;
+		border-collapse: collapse;
+		padding: 20px;
+	}
+
+	.inner-table1 td {
+		border: 0px solid;
+	}
+
+	.inner-table1-td {
+		padding: 10px;
+	}
+
+	.newusers-viewalluser-btn {
+
+		width: 50%;
+		border-radius: 9px;
+		color: white;
+		background-color: 0070AD;
+		border-width: 0px;
+		font-size: 50;
+		font-family: sans-serif;
+		cursor: pointer;
+		padding: 31px 8px;
+		margin-top: 3px;
+	}
+
+	.newusers-td {
+		width: 45%;
+		text-align: center;
+		padding: 3px 2px 19px 2px;
+	}
+
+	.viewallusers-td {
+		width: 45%;
+		text-align: center;
+		padding: 3px 2px 19px 2px;
+	}
